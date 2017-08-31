@@ -24,3 +24,7 @@ $ npm run dev
 
 Then a server for developing will run on http://localhost:4000/ .
 If you edit some .md files, the server automatically rebuild!
+
+## Helpful sites
+
+* https://developer.gitbook.com/ - Latest-GitBook-used website
