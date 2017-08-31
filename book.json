@@ -1,0 +1,10 @@
+{
+  "gitbook": ">=3.2.1",
+  "root": "docs",
+  "title": "This is a title",
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": true
+    }
+  }
+}
