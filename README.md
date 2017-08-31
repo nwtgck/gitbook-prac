@@ -4,6 +4,10 @@ GitBook Practice
 
 (from: http://qiita.com/mamohacy/items/98c0d790074c9bdfef1a)
 
+## Actual Page
+
+https://nwtgck.github.io/gitbook-prac/
+
 ## How to build
 
 ```sh
