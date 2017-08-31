@@ -6,12 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "gitbook build",
-    "dev":   "gitbook serve"
+    "dev": "gitbook serve",
+    "gh-pages-push": "npm run build && gh-pages -d _book -m 'Auto publish book'"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "gh-pages": "^1.0.0",
     "gitbook-cli": "^2.0.1"
   }
 }

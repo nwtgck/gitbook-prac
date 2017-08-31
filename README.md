@@ -25,6 +25,15 @@ $ npm run dev
 Then a server for developing will run on http://localhost:4000/ .
 If you edit some .md files, the server automatically rebuild!
 
+## How to push to `gh-pages`
+
+```sh
+$ cd <this repo>
+$ npm install
+$ npm run gh-pages-push
+```
+
+
 ## Helpful sites
 
 * https://developer.gitbook.com/ - Latest-GitBook-used website
