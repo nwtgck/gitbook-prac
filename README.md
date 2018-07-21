@@ -1,7 +1,7 @@
 # gitbook-prac
 [![Build Status](https://travis-ci.com/nwtgck/gitbook-prac.svg?branch=master)](https://travis-ci.com/nwtgck/gitbook-prac)
 
-GitBook Practice
+[GitBook](https://www.gitbook.com/) Practice
 
 (from: http://qiita.com/mamohacy/items/98c0d790074c9bdfef1a)
 
