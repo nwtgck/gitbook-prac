@@ -1,4 +1,5 @@
-# GitBook Practice
+# gitbook-prac
+[![Build Status](https://travis-ci.com/nwtgck/gitbook-prac.svg?branch=master)](https://travis-ci.com/nwtgck/gitbook-prac)
 
 GitBook Practice
 
