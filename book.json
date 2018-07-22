@@ -2,9 +2,13 @@
   "gitbook": ">=3.2.1",
   "root": "docs",
   "title": "This is a title",
+  "plugins": ["ga"],
   "pluginsConfig": {
     "theme-default": {
       "showLevel": true
+    },
+    "ga": {
+      "token": "UA-107213479-3"
     }
   }
 }
