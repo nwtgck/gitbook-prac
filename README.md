@@ -1,5 +1,5 @@
 # gitbook-prac
-[![Build Status](https://travis-ci.com/nwtgck/gitbook-prac.svg?branch=master)](https://travis-ci.com/nwtgck/gitbook-prac)
+[![Build Status](https://travis-ci.com/nwtgck/gitbook-prac.svg?branch=master)](https://travis-ci.com/nwtgck/gitbook-prac) [![Greenkeeper badge](https://badges.greenkeeper.io/nwtgck/gitbook-prac.svg)](https://greenkeeper.io/)
 
 [GitBook](https://www.gitbook.com/) Practice
 
